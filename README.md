@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi, I'm Afiya 👋
+
+🎓 B.Tech Student – Computer Engineering Systems (CES Core)  
+📅 First Year | Joined in 2025  
+
+## About Me
+I am a first-year B.Tech CES Core student who is interested in learning programming, improving problem-solving skills, and exploring different areas of technology.
+
+## Learning Goals
+I hope to learn practical coding skills, build useful projects, and develop a strong foundation in computer science during my academic journey.
 
 <!--
 **afiya25bce11165-ship-it/afiya25bce11165-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

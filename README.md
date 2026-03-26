@@ -1,6 +1,6 @@
 # Hi, I'm Afiya 👋
 
-🎓 B.Tech Student – Computer Engineering Systems (CES Core)  
+🎓 B.Tech Student – Computer Engineering Systems (CSE Core)  
 📅 First Year | Joined in 2025  
 
 ## About Me
